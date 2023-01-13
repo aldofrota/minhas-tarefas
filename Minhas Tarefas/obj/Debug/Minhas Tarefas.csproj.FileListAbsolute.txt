@@ -1,0 +1,11 @@
+D:\projetos\Minhas Tarefas\Minhas Tarefas\bin\Debug\Minhas Tarefas.exe.config
+D:\projetos\Minhas Tarefas\Minhas Tarefas\bin\Debug\Minhas Tarefas.exe
+D:\projetos\Minhas Tarefas\Minhas Tarefas\bin\Debug\Minhas Tarefas.pdb
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.csproj.AssemblyReference.cache
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.csproj.SuggestedBindingRedirects.cache
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas_Tarefas.LoginForm.resources
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas_Tarefas.Properties.Resources.resources
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.csproj.GenerateResource.cache
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.csproj.CoreCompileInputs.cache
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.exe
+D:\projetos\Minhas Tarefas\Minhas Tarefas\obj\Debug\Minhas Tarefas.pdb
